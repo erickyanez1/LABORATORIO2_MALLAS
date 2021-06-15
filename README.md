@@ -29,7 +29,6 @@
   
 ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/img1_lab2.png)
 ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/img2_lab2.png)
-![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/img3_lab2.png)
   
 </div>
   
@@ -37,7 +36,7 @@
 
 <div align="center">
 
-![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/tabla.PNG)
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/img3_lab2.png)
   
   
 
