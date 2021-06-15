@@ -99,3 +99,10 @@ Se concluye que:
 - Al realizar esta práctica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
+
+MiElectrónicaFácil.com. n.d. Teorema de mallas, ejercicios paso a paso. Recuperado de:
+https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-mallas/#pasos-teorema-de-mallas-electricas
+
+Antón, J. C. Á., Pascual, L. M., & Martín, F. J. F. (2007). Introducción al análisis de circuitos eléctricos. Universidad de Oviedo.
