@@ -50,7 +50,7 @@
 
 <div align="center">
 
-  
+ ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/circuitt.PNG)
   
   
  </div>
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-  
-  
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/circuito.PNG)
+ 
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/tabla.PNG)
   
   
 
