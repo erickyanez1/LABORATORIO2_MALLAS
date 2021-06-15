@@ -94,7 +94,7 @@ https://youtu.be/UuuMiGRsx1U
 Se concluye que:
 
 - La Ley Ohm nos permite el cálculo correcto y acertado de circuitos electrónicos básicos y complejos para la optimización de un circuito que se desee realizar por el fabricante, es por ello que es de suma importancia conocer todas las leyes que Ohm propone.
-- En cada malla circulan corrientes diferentes y para el calculo de estas mismas se forma un sistema de ecuaciones que dependen de la cantidad de mallas que tiene el circuito.
+- En cada malla circulan corrientes diferentes y para el cálculo de estas mismas se forma un sistema de ecuaciones que dependen de la cantidad de mallas que tiene el circuito.
 - Al realizar esta práctica podemos afirmar que se observa el cumplimiento de la ley de tensión de Kirchhoff ya que al sacar los voltajes de cada trayectoria y realizar la suma algebraica como lo indica esta ley nos da como resultado 0.
 
 # **7. BIBLIOGRAFÍA**
