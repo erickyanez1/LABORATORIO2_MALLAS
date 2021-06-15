@@ -76,7 +76,7 @@
 
 <div align="center">
   
-![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/tabla.PNG)
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/cuadro.PNG)
   
   
 
