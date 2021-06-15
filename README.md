@@ -16,12 +16,11 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - C.
+  - Determinar como las mallas ayudan al cálculo de circuitos electrónicos haciéndo que el circuito se divida en varias partes y tomando en cuenta que pasa por cada nodo para los cáculos con la ayuda de la Ley de Ohm.
  
  **OBJETIVOS ESPECÍFICOS**
-  - sa
-  - sa
-  - sa
+  - Analizar como influye el cálculo comparado con sacar resistencias totales a hacerlo con mallas determinando el sentido de la intensidad.
+  - Calcular las distintas intensidades que circulan por medio del circuito electrónico con el fin de hacer una simplificación de circuito y resolverlo de otra manera.
 
 # **2. MARCO TEÓRICO**
 
