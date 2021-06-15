@@ -67,13 +67,7 @@
 ###### **3.1.3 Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados.**
 
 <div align="center">
- 
-• Simulación Proteus
-  
- ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/Sim_proteus.png)
-  
-• Simulación  tinkercad
-  
+
 
   
 </div>
