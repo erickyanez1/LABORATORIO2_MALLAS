@@ -74,6 +74,10 @@
 ###### **3.1.4 Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 <div align="center">
+
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/malla1.PNG)
+  
+![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/malla3.PNG)
   
 ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/cuadro.PNG)
   
