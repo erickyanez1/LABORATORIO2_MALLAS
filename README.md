@@ -84,11 +84,11 @@
 
 #  4.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-< div align="center">
+<  div align = "center"  >
 
 ![](https://github.com/erickyanez1/LABORATORIO2_MALLAS/blob/main/IMG_PRACTICA2/Error.png)
 
-</ div >
+</  div   >
   
 
 # **5. VIDEO**
